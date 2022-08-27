@@ -32,4 +32,4 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 <hr>
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at as.iostech@gmail.com.
-Footer
+<Footer>
